@@ -1,6 +1,0 @@
-hash: 6516a71671a86f82ba6f45f626c64633e88db2a1fa938a60b5b021ff49b853f6
-updated: 2016-09-04T16:37:33.661572232+02:00
-imports:
-- name: github.com/gin-gonic/gin
-  version: e2fa89777e344782ef5d31929f095f4589c35dcc
-testImports: []
